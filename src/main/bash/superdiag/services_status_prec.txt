@@ -1,0 +1,9 @@
+birt : active : 0
+lgpi_verrou_cmde : active : 0
+lgo_muse : active : 0
+lgpi_query : active : 0
+rabbitmq-server : active : 0
+oracle_base : active : 0
+vitale-connect : active : 0
+automate_com : active : 0
+lgpi_commande_auto : active : 0

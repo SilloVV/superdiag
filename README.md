@@ -5,7 +5,7 @@ Cet outil est ecrit en Bourne hell et il est possible de le lancer via la comman
 
 ## Installation
 Superdiag est installe grace a un rpm disponible sur la branche master Jenkins du depot `superdiag`.   
-Il faut simplement positionner le rpm dans le repertoire `/home/offilink/erp/in` et lancer la commande `/home/pharmagest/backup/bin/rpm/ulysse --do-all`.
+
 ## Utilisation
 ### Module 1 : outil de diagnostic   
 ### Lancement   

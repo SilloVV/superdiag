@@ -11,7 +11,7 @@ Superdiag est installe grace a un rpm disponible sur la branche master Jenkins d
 ### Lancement   
 Une fois installe, il suffit de lancer la commande `superdiag`. C'est magique ! :)
 ### Fonctionnalites
-#### Etats des services des listes disponibles en suivant ce lien -> 'https://agora.groupe.pharmagest.com/bitbucket/projects/LGO/repos/superdiag/browse/src/main/bash/superdiag/util_statut.sh#4'.   
+#### listes disponibles en suivant ce lien -> 'https://agora.groupe.pharmagest.com/bitbucket/projects/LGO/repos/superdiag/browse/src/main/bash/superdiag/util_statut.sh#4'.   
 - SERVICE_DIAG: liste des services verifies par l'outil de diagnostic    
 - SERVICE_SUPER: liste des services verifies par l'outil de supervision    
 #### Volumetrie des repertoires de logs:   
